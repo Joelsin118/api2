@@ -1,0 +1,54 @@
+body {}
+
+h1 {
+  font-family: 'KoHo', sans-serif;
+  font-size: 28px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.row {
+  margin-bottom: 4vh;
+  margin-left: 3vw;
+  margin-right: 3vw;
+}
+
+.btn {
+  font-family: 'KoHo', sans-serif;
+  font-size: 16px;
+  background-color: #65c2f7;
+  color: white;
+  padding: 1vh 1vw;
+}
+
+.btn:hover {
+  color: #efad07;
+}
+
+.btn:focus {
+  outline: 2px solid #efad07 !important;
+  background-color: #255e26;
+  color: #72ff75;
+}
+
+.cartoon-button {
+  margin: .10%;
+}
+
+.gif-image {
+  margin-top: 1vh;
+  margin-bottom: 1vh;
+}
+
+.individual-gif-container {
+  float: left;
+  margin: 2vh 3vw 2vh 3vw;
+}
+
+#submit {
+  margin-top: 1.5vh;
+}
+
+#gif-container {
+  font-size: 22px;
+}
